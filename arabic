@@ -25,3 +25,9 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consulatdumaroc.ca/img/tv/8.png" group-title="MOROCCO",Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1,flylinks.net MAROC - Medi1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
+
+#EXTINF:-1,flylinks.net MAROC - MEDI1 TV Afrique
+http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1363500254.m3u8
