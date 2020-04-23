@@ -25,3 +25,9 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
 
 #EXTINF:-1,flylinks.net MAROC - MEDI1 TV Afrique
 http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1363500254.m3u8
+
+#EXTINF:-1,flylinks.net MAROC - MEDI1 TV Arabic
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,flylinks.net MAROC - M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
